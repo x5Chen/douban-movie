@@ -74,6 +74,7 @@ export default {
       ]
     }
   },
+  // emmm
   created () {
     this.commonCategory.forEach(item => {
       this.getHotMovieData(item)
